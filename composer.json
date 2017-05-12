@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/pinterest",
+    "name": "robertem128/pinterest",
     "description": "Pinterest OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
