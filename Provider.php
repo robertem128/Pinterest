@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\Pinterest;
+namespace robertem128\Pinterest;
 
 use SocialiteProviders\Manager\OAuth2\User;
 use Laravel\Socialite\Two\ProviderInterface;
